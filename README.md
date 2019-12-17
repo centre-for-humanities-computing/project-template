@@ -16,4 +16,4 @@ _by Project Owner_
 ## Deadline ##
 
 ## License ##
-This software is [MIT licensed](./LICENSE).
+This software is [MIT licensed](./LICENSE.txt).
