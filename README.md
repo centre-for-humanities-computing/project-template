@@ -4,7 +4,7 @@ _by Project Owner_
 ## Project Developers
 
 ## Project Description
-[Git Repo](https://github.com/centre-for-humanities-computing/<title here>.git)
+[Git Repo](https://github.com/centre-for-humanities-computing/project-template.git)
 
 ## Data Assessment ##
 | Source | risk | Storage | Comment|
@@ -16,5 +16,4 @@ _by Project Owner_
 ## Deadline ##
 
 ## License ##
-
-<title here> is [MIT licensed](./LICENSE).
+This software is [MIT licensed](./LICENSE).
