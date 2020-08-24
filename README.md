@@ -1,5 +1,10 @@
 # PROJECT TITLE
-_by Project Owner_
+
+| Key | Value |
+| --- |:---:|
+| name | nameson, name |
+| email | nameson@uni.dk |
+| university | someuni |
 
 ## Project Developers
 
@@ -10,10 +15,6 @@ _by Project Owner_
 | Source | risk | Storage | Comment|
 | --- |:---:|---|---|
 |||| |
-
-## Time Estimate ##
-
-## Deadline ##
 
 ## License ##
 This software is [MIT licensed](./LICENSE.txt).
