@@ -16,5 +16,16 @@
 | --- |:---:|---|---|
 |||| |
 
+##  Data Identification ##
+| Item | Answers |
+| --- | --- |
+| Description |  |
+| Collection |  |
+| Volume |  |
+| Formats |  |
+| Software |  |
+
+### Data Management Comments ###
+
 ## License ##
 This software is [MIT licensed](./LICENSE.txt).
